@@ -1,0 +1,221 @@
+12:43:02.344 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+12:43:02.369 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+12:43:03.473 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+12:43:03.802 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+12:43:03.942 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+12:43:05.670 [main] ERROR testCases.TC001_Account_Registration_Test - Account Registration is failed
+12:50:53.310 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+12:50:53.347 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+12:50:57.296 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+12:50:58.335 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+12:50:58.614 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+12:50:59.242 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+12:50:59.962 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+12:50:59.963 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:27:34.352 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:27:34.379 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:27:35.272 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:27:35.451 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:27:35.587 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:27:35.739 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:27:36.059 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:27:36.060 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:34:24.047 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:34:24.119 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:34:25.012 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:34:25.241 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:34:25.408 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:34:26.511 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:34:27.998 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:34:27.998 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:39:53.742 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:39:54.003 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:39:54.663 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:39:54.782 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:39:54.923 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:39:55.059 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:39:55.118 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:39:55.118 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:43:46.580 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:43:46.640 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:43:47.331 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:43:47.563 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:43:47.885 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:43:48.760 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:43:49.607 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:43:49.609 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:44:19.319 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:44:19.322 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:44:22.680 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:44:22.861 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:44:23.035 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:44:23.160 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:44:24.339 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:44:24.343 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+17:48:15.483 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+17:48:15.523 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+17:48:15.815 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+17:48:15.974 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering email
+17:48:16.116 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Entering password
+17:48:16.289 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+17:48:16.457 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+17:48:16.457 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+18:10:07.180 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+18:10:07.222 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+18:10:07.768 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+18:10:07.951 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+18:10:08.158 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+18:10:08.443 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+18:10:09.360 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+18:10:09.360 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+18:11:36.543 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+18:11:36.553 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+18:11:36.737 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+18:11:37.094 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+18:11:37.248 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+18:11:37.396 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+18:11:37.452 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+18:11:37.453 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+18:12:14.468 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+18:12:14.485 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+18:12:14.770 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+18:12:14.935 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+18:12:15.085 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+18:12:15.245 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+18:12:15.442 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+18:12:15.442 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+18:14:57.554 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+18:14:57.608 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+18:14:57.979 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+18:14:58.239 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+18:14:58.436 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+18:14:58.643 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+18:14:58.643 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+18:14:58.643 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+11:40:32.531 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+11:40:32.584 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+11:40:34.125 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+11:40:34.622 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+11:40:34.772 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+11:40:35.238 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+11:40:37.426 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+11:40:37.426 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+11:44:45.547 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+11:44:45.579 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+11:44:45.842 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+11:44:46.028 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+11:44:46.255 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+11:44:46.333 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+11:44:46.401 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+11:44:46.401 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+11:52:12.216 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+11:52:12.291 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+11:52:12.615 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+11:52:12.841 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+11:52:13.002 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+11:52:13.036 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+11:52:13.296 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+11:52:13.299 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+11:42:19.742 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+11:42:19.910 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+11:42:20.992 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+11:42:21.526 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+13:10:47.910 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:11:15.613 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:11:15.839 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:11:32.161 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:11:32.174 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:15:07.071 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:15:32.661 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:15:32.776 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:15:49.200 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:15:49.209 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:16:05.564 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:16:05.589 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:16:21.876 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:16:21.928 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:19:17.453 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:19:34.286 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:19:34.469 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:19:50.983 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:19:50.995 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:20:07.346 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:20:07.381 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:20:08.935 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:22:26.639 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:22:45.207 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:22:45.526 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:23:02.505 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:23:02.523 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:23:18.836 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:23:18.872 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+13:23:35.335 [main] INFO  testCases.TC003_LoginDDT - ****Completed TC003_LoginDDT*****
+13:23:35.349 [main] INFO  testCases.TC003_LoginDDT - ****Starting TC003_LoginDDT****
+16:32:45.343 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+16:32:45.639 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+16:32:46.074 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+16:32:47.220 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+16:35:21.766 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+16:35:21.841 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+16:35:22.068 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+16:35:22.261 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+16:35:22.491 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+16:35:23.225 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+16:35:23.707 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+16:35:23.708 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+16:35:54.692 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+16:35:54.693 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+16:35:54.986 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+16:35:55.643 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+16:51:47.683 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+16:51:47.732 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+16:51:48.081 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+16:51:48.363 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+16:51:48.567 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+16:51:48.784 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+16:51:48.948 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+16:51:48.949 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+16:52:00.491 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+16:52:00.492 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+16:52:00.769 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+16:52:02.347 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+16:54:48.163 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+16:54:48.555 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+16:54:49.263 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+16:54:50.232 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+12:25:03.061 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+12:25:03.160 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+12:25:05.309 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+12:25:06.449 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+12:25:06.807 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+12:25:07.292 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+12:25:08.408 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+12:25:08.409 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+12:25:37.345 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+12:25:37.349 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+12:25:37.488 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+12:25:39.378 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+12:33:47.765 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+12:33:47.802 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+12:33:48.104 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+12:33:48.267 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+12:33:48.515 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+12:33:48.690 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+12:33:48.914 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+12:33:48.915 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+12:34:41.960 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+12:34:41.961 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+12:34:42.098 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+12:34:42.969 [main] INFO  testCases.TC002_Login_Test - Entering login credentials
+12:47:47.323 [main] INFO  testCases.TC001_Account_Registration_Test - **** Account Registration Test case****
+12:47:47.336 [main] INFO  testCases.TC001_Account_Registration_Test - Entering firstname
+12:47:47.832 [main] INFO  testCases.TC001_Account_Registration_Test - Entering lastname
+12:47:48.005 [main] INFO  testCases.TC001_Account_Registration_Test - Entering email
+12:47:48.171 [main] INFO  testCases.TC001_Account_Registration_Test - Entering password
+12:47:48.382 [main] INFO  testCases.TC001_Account_Registration_Test - checked privacy policy
+12:47:48.679 [main] INFO  testCases.TC001_Account_Registration_Test - Successfully clicked on Continue button
+12:47:48.679 [main] INFO  testCases.TC001_Account_Registration_Test - ****Account Registration test case is completed****
+12:48:16.846 [main] INFO  testCases.TC002_Login_Test - ******Starting TC002_Login_Test*******
+12:48:16.847 [main] INFO  testCases.TC002_Login_Test - Clicking on MyAccount link
+12:48:17.026 [main] INFO  testCases.TC002_Login_Test - Clicking on Login Link
+12:48:18.818 [main] INFO  testCases.TC002_Login_Test - Entering login credentials

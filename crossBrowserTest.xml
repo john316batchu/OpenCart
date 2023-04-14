@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite" parallel="tests">
+  <test thread-count="5" name="OpenCartChromeTest">
+  <parameter name="browser" value="Chrome"></parameter>
+    <classes>
+      <class name="testCases.TC001_Account_Registration_Test"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="OpenCartEdgeTest">
+  <parameter name="browser" value="Edge"></parameter>
+    <classes>
+      <class name="testCases.TC001_Account_Registration_Test"/>
+    </classes>
+  </test>
+  
+</suite> <!-- RegressionSuite -->
